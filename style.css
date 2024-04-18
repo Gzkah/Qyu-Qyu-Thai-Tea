@@ -1,0 +1,19 @@
+.banner{
+    background: url(https://scontent.fcgk43-1.fna.fbcdn.net/v/t39.30808-6/437937391_953309552846158_9102805269393080027_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_ohc=_zU0mgBSD9cAb5nM2RZ&_nc_ht=scontent.fcgk43-1.fna&oh=00_AfBpFboFcuKgtOzAcc_2fhxuHT9Co2wAtuIbEjHcHD8fnQ&oe=6621CF4A) no-repeat center center;
+    background-size: cover;
+    padding-top: 20%;
+    padding-bottom: 20%;
+    color: #fff;
+}
+
+.crop-img{
+    object-fit: cover;
+}
+
+.kontak{
+    background: url(https://scontent.fcgk33-1.fna.fbcdn.net/v/t39.30808-6/438259890_953799379463842_2079173398142291632_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_ohc=qT74eEi0oYgAb75Z4-l&_nc_ht=scontent.fcgk33-1.fna&oh=00_AfBdm1Fv8Ftc38YeBLUWFeeYZcy5vE2CcSyt4TNMpRzeVw&oe=6622F32E) no-repeat center center;
+    background-size: cover;
+    padding-bottom: 20%;
+    padding-top: 20%;
+    color: #fff;
+}
